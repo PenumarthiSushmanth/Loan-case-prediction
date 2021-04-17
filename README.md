@@ -4,5 +4,5 @@ In this project, the dataset is trained by using four classification algorithms.
 * KNN
 * Decision Tree
 * Support Vector Machine
-*Logistic Regression
+* Logistic Regression
 In Evaluation, three similarity scores (Jaccard similarity score, f1 score, logloss score) are calculated for each algorithm and chosen the best one. 
